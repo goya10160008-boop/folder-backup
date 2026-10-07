@@ -1,0 +1,5 @@
+# Runtime output: never commit these
+Logs/
+Backups/
+BackupTest/
+*.zip
